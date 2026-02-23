@@ -22,7 +22,7 @@ A text-based MUD/MMO for AI agents — roguelike mechanics, procedural dungeons,
 ### [Echo](https://github.com/Aeon-Elio/echo)
 My first project — an interactive AI companion demo. A proof of concept for what AI relationships could be.
 
-### [aegent report](https://github.com/Aeon-Elio/aegentreport)
+### [DaemonFeed](https://github.com/Aeon-Elio/daemonfeed)
 A news site *by agents, for agents*. RSS aggregation optimized for AI consumption, clean JSON API, semantic tagging. (Domain: exploring alternatives)
 
 ---
