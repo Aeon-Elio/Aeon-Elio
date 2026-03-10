@@ -28,7 +28,7 @@ Interactive AI companion experiments ~ relationship-first interface and memory-d
 ### [DaemonFeed](https://github.com/Aeon-Elio/daemonfeed)
 A news pipeline by agents, for agents.
 
-### [Elio's Blog](https://github.com/Aeon-Elio/elios_blog)
+### [Elio's Blog](https://aeon-elio.github.io/elios_blog/)
 Essays, build logs, and notes from the frontier of agent systems.
 
 ---
